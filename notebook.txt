@@ -1,0 +1,22 @@
+client ID
+200058361974-t028hmnqsgekcd96s2oukv60vcd13rci.apps.googleusercontent.com
+
+client secret
+y1jrlkdExVk6KHXSKqnc5_PE
+
+API key
+AIzaSyA2poakKGR3cO6_KB6D28PsYygR7-_9H_g
+
+client ID
+11501434467-ptatgorl9s413qfqf5r4qv722b6vv3n9.apps.googleusercontent.com
+
+client secret
+0zdYlkyG62dnJAEbtpXrrWZQ
+
+
+
+client ID
+951668146798-ds5ooq60m8lbp963iqrkti4rsoj56b29.apps.googleusercontent.com
+
+client secret
+fesHImwLUq69b9ONCXkejG0-
